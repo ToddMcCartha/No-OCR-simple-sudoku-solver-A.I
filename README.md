@@ -23,13 +23,16 @@ How It Works
   
     I have supplied some example puzzles to try out. I will add more in the future by an update of this git!!
     Notice that it only works with type of font but I will find a way  make a modification of the scipts to allow more fonts if I have time.
+    Make sure you uncomment one of the Templates methods to have Main.py (up at the top) to find the locatin of folder base on operating system!!(debain linux or windows) or it
+    will result in an error!!!!
     Lastly, make sure you have very good lighting conditions. It is very finicky about that and might misdetect some digits.
     
     requirments 
+    
     python3
     opencv for python
-    install opencv by pip using this command
+    install opencv by pip using this command!!!
     pip3 install opencv-python
 
     Also please unzip the the templates folder before running Main.py and unzip the folder cold puzzles_to_print.
-    please enjoy
+    please enjoy!!!!  :D :D
