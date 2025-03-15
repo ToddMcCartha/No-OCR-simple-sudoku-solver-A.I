@@ -14,7 +14,7 @@ How It Works
 
     Cell Extraction:
     Once the puzzle is detected, the box is divided into a 9x9 grid 
-    using nested loops to isolate each cell.
+    using two forloops to isolate each cell.
 
     Digit Recognition:
     Each cell is compared against .png images (templates) of digits 0-9 
