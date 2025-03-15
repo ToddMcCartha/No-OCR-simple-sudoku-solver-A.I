@@ -40,7 +40,7 @@ How It Works
     if I have time.
     Make sure you uncomment one of the Templates methods to have Main.py 
     (up at the top) to find the locatin of folder 
-    based on operating system!!(debain linux or windows) or it
+    based on the operating system!!(debain linux or windows) or it
     will result in an error!!!!
     Lastly, make sure you have very good lighting conditions. 
     It is very finicky about that and might misdetect some digits.
