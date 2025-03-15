@@ -4,7 +4,7 @@ A simple Python Sudoku solver built with just OpenCV, designed
 for computers with limited resources.
 It's well-suited for devices like the Raspberry Pi Zero 2 W 
 or other similar low-resource systems. 
-so simpleit does not require any Machine Learning (ML) techniques such as OCR!!!
+so simple it does not require any Machine Learning (ML) techniques such as OCR!!!
 
 How It Works
 
