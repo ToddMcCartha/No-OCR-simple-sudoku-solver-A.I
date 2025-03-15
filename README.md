@@ -1,6 +1,7 @@
 None-OCR-simple-sudoku-solver-A.I
 
-A simple Python Sudoku solver built with just OpenCV, designed for computers with limited resources. It's well-suited for devices like the Raspberry Pi Zero 2 W or other similar low-resource systems.
+A simple Python Sudoku solver built with just OpenCV, designed for computers with limited resources. It's well-suited for devices like the Raspberry Pi Zero 2 W or other similar low-resource systems. so simpleit does not require any Machine Learning (ML) techniques such as OCR
+
 How It Works
 
     Box Detection:
@@ -19,9 +20,14 @@ How It Works
 
     Displaying the Solution:
     Finally, the solved Sudoku puzzle is displayed in a window and printed to the terminal.
-
+  
+    I have supplied some example puzzles to try out. I will add more in the future by an update of this git!!
+    Notice that it only works with type of font but I will find a way  make a modification of the scipts to allow more fonts if I have time.
+    
     requirments 
     python3
     opencv for python
     install opencv by pip using this command
     pip3 install opencv-python
+
+    Also please unzip the the templates folder before running Main.py
