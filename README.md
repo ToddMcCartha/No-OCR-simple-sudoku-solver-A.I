@@ -35,7 +35,9 @@ How It Works
     I have supplied some example puzzles to try out. 
     I will add more in the future by an update of this git!!
     Notice that it only works with type of font 
-    but I will find a way  make a modification of the scipts to allow more fonts if I have time.
+    but I will find a way  make a modification
+    of the scipts to allow more fonts in the future, 
+    if I have time.
     Make sure you uncomment one of the Templates methods to have Main.py 
     (up at the top) to find the locatin of folder 
     based on operating system!!(debain linux or windows) or it
