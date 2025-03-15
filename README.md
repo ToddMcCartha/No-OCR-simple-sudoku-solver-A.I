@@ -23,6 +23,7 @@ How It Works
   
     I have supplied some example puzzles to try out. I will add more in the future by an update of this git!!
     Notice that it only works with type of font but I will find a way  make a modification of the scipts to allow more fonts if I have time.
+    Lastly, make sure you have very good lighting conditions. It is very finicky about that and might misdetect some digits.
     
     requirments 
     python3
@@ -30,4 +31,5 @@ How It Works
     install opencv by pip using this command
     pip3 install opencv-python
 
-    Also please unzip the the templates folder before running Main.py
+    Also please unzip the the templates folder before running Main.py and unzip the folder cold puzzles_to_print.
+    please enjoy
